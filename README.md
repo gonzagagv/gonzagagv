@@ -1,6 +1,7 @@
 # 💫 About Me:
-Atualmente sou um estudante de Desenvolvimeto de sistemas e estou procurando uma oportunidade de conseguir um emprego na área<br>
+Atualmente sou um estudante do Curso Tecnico de Desenvolvimeto de Sistemas no SENAI e estou procurando uma oportunidade de conseguir um emprego na área<br>
 
+ <img src= "https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=500&color=CC0000&width=700&height=60&lines=+Estudante+do+Curso+Tecnico+de+Desenvolvimento+de+Sistemas+no+SENAI">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos--gonzaga) 
